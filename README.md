@@ -1,8 +1,8 @@
 AusWallet for Android
 ----------------------------------
 
-![download](/images/icon-google-play.png)
-(https://play.google.com/store/apps/details?id=com.auswallet)
+This wallet is now deprecated. It will only receive funds and not send them.
+Retrieval of funds can be made using the recovery page at https://web.australiacash.org/recovery.html
 
 ### The easy and secure Australia Cash wallet
 
